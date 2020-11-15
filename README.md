@@ -5,11 +5,3 @@
 </div>
 
 Using [SpaceX API](https://github.com/r-spacex/SpaceX-API)
-
-## View  
-- [ ] A login page  
-- [ ] A list of upcoming launches  
-- [ ] A detail view for an individual launch  
-- [ ] A user profile page  
-- [ ] A cart  
-
